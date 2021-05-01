@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stefan034
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C code with arduino
+- 📫 How to reach me ...
